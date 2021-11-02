@@ -1,4 +1,4 @@
-"""Feature engineers the abalone dataset."""
+"""Feature engineers the moblile phone dataset."""
 import argparse
 import logging
 import os
